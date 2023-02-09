@@ -1,0 +1,55 @@
+This is my submission of Day1.
+Hello Connections,
+
+
+
+Today I am starting the #90daysofdevops challenge by Shubham Londhe
+
+
+
+Day1 
+
+
+
+#DevOps?
+
+  DevOps is a set of practices that combines software development and IT operations with aim of shortening the system development life cycle and providing continuous delivery of high software quality. 
+
+
+
+  #Automation?
+
+   Automation is the process of using technologies to perform a task that reduces human intervention.
+
+
+
+ #Scaling?
+
+   Scaling refers to increasing or decreasing the resources according to the workload with intention of minimizing the cost.
+
+    There are two types of scaling:
+
+     - Vertical scaling: It refers to increasing the capacity of the server or assigning larger resources.
+
+     - Horizontal scaling: It refers to increasing/decreasing the number of resources.
+
+
+
+  #Infrastructure
+
+There are two types of Infrastructure On-premises and cloud.
+
+   - On-premises infrastructure means software and hardware setup deployed and running within the premises of the organization. 
+
+   - Cloud Infrastructure refers to the software and hardware running on a virtual platform like #AWS, #GCP, or Microsoft #Azure.
+
+
+
+# Why DevOps is important?
+
+  - DevOps is important as it bridges the gap between development and operation in an organization and aims to improve productivity as a whole. It shortens the life cycle of system development with the continuous delivery of high-quality software. 
+
+
+
+   
+
