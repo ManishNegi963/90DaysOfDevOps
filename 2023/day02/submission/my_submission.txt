@@ -1,0 +1,51 @@
+#Basic linux commands
+
+[ec2-user@ip-172-31-36-47 ~]$ ls
+[ec2-user@ip-172-31-36-47 ~]$ mkdir day02
+[ec2-user@ip-172-31-36-47 ~]$ mkdir .hiddenday02
+[ec2-user@ip-172-31-36-47 ~]$ mkdir 90daysofdevops opensource devops
+[ec2-user@ip-172-31-36-47 ~]$ pwd
+/home/ec2-user
+[ec2-user@ip-172-31-36-47 ~]$ mkdir /home/ec2-user/nesteddirectory
+[ec2-user@ip-172-31-36-47 ~]$ mkdir -p dir1/dir2/dir3
+[ec2-user@ip-172-31-36-47 ~]$ ls
+90daysofdevops  day02  devops  dir1  nesteddirectory  opensource
+[ec2-user@ip-172-31-36-47 ~]$ ls -l
+total 0
+drwxrwxr-x 2 ec2-user ec2-user  6 Feb 10 11:57 90daysofdevops
+drwxrwxr-x 2 ec2-user ec2-user  6 Feb 10 11:54 day02
+drwxrwxr-x 2 ec2-user ec2-user  6 Feb 10 11:57 devops
+drwxrwxr-x 3 ec2-user ec2-user 18 Feb 10 12:02 dir1
+drwxrwxr-x 2 ec2-user ec2-user  6 Feb 10 12:01 nesteddirectory
+drwxrwxr-x 2 ec2-user ec2-user  6 Feb 10 11:57 opensource
+[ec2-user@ip-172-31-36-47 ~]$ ls -a
+.  ..  90daysofdevops  .bash_logout  .bash_profile  .bashrc  day02  devops  dir1  .hiddenday02  nesteddirectory  opensource  .ssh
+[ec2-user@ip-172-31-36-47 ~]$ ls *.sh
+ls: cannot access *.sh: No such file or directory
+[ec2-user@ip-172-31-36-47 ~]$ mkdir bashfile.sh
+[ec2-user@ip-172-31-36-47 ~]$ ls *.sh
+[ec2-user@ip-172-31-36-47 ~]$ ls -i
+12588588 90daysofdevops   9138770 bashfile.sh   4241197 day02   4571277 devops  12588589 dir1   9138766 nesteddirectory      9388 opensource
+[ec2-user@ip-172-31-36-47 ~]$ ls -d */
+90daysofdevops/  bashfile.sh/  day02/  devops/  dir1/  nesteddirectory/  opensource/
+[ec2-user@ip-172-31-36-47 ~]$ pwd
+/home/ec2-user
+[ec2-user@ip-172-31-36-47 ~]$ cd day02
+[ec2-user@ip-172-31-36-47 day02]$ pwd
+/home/ec2-user/day02
+[ec2-user@ip-172-31-36-47 day02]$ cd
+[ec2-user@ip-172-31-36-47 ~]$ pwd
+/home/ec2-user
+[ec2-user@ip-172-31-36-47 ~]$ cd -
+/home/ec2-user/day02
+[ec2-user@ip-172-31-36-47 day02]$ cd..
+-bash: cd..: command not found
+[ec2-user@ip-172-31-36-47 day02]$ cd ..
+[ec2-user@ip-172-31-36-47 ~]$ pwd
+/home/ec2-user
+[ec2-user@ip-172-31-36-47 ~]$ cd devops
+[ec2-user@ip-172-31-36-47 devops]$ pwd
+/home/ec2-user/devops
+[ec2-user@ip-172-31-36-47 devops]$ cd ../..
+[ec2-user@ip-172-31-36-47 home]$ pwd
+/home
