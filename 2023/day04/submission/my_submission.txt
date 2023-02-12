@@ -1,0 +1,29 @@
+
+ **Tasks**
+
+ - Explain in your own words and examples, what is Shell Scripting for DevOps.
+ Shell is a command-line interpreter and Shell script is nothing but a list of commands executed by the shell.
+ Shell scripting for DevOps refers to the commands used to automate the tasks written in .sh file.
+
+ - What is `#!/bin/bash?` can we write `#!/bin/sh` as well?
+ `#!/bin/bash' is known as the shebang, A hash (#) and an exclamation mark (!) is basically instructs the operating system to use Bash as a default shell to run the script.
+ '#!/bin/sh': It is used to execute the file using sh, which is a Bourne shell, or a compatible shell.
+
+ - Write a Shell Script which prints `I will complete #90DaysOofDevOps challenge`
+#!/bin/Bash
+echo " I will complete 90daysofdevops challenge "
+
+- Write a Shell Script to take user input, input from arguments and print the variables.
+#!/bin/bash
+echo "Enter a number"
+read num
+echo "The number is $num" 
+
+ - Write an Example of If else in Shell Scripting by comparing 2 numbers
+ #!/bin/bash
+ read num1
+ if [$num1 -ge 9]
+ then
+ echo " The number is two digit number "
+ else 
+ echo "The number is one digit number" 
