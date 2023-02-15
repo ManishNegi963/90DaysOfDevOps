@@ -81,6 +81,7 @@ If everything went well, the beginning of the status output shows that the servi
 ## Tasks
 
  1) check the status of docker service in your system (make sure you completed above tasks, else docker won't be installed)
+<img width="383" alt="docker " src="https://user-images.githubusercontent.com/124788172/219025178-efcb7fb8-6b46-40a4-bd90-c806efa8c21c.png">
 
  2) stop the service jenkins and post before and after screenshots
 
