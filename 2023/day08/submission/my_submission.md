@@ -39,5 +39,15 @@ Overall, the decentralized nature of a DVCS allows for greater collaboration, fl
 ## Exercises:
 
 1) Create a new repository on GitHub and clone it to your local machine
+<img width="849" alt="created github file" src="https://user-images.githubusercontent.com/124788172/219371537-6fe18f5b-1489-4066-8496-2a9845d43c85.png">
+<img width="539" alt="git clone" src="https://user-images.githubusercontent.com/124788172/219371555-baba7565-0bee-4197-8c65-1610f3f845e4.png">
+
+
 2) Make some changes to a file in the repository and commit them to the repository using Git
+<img width="437" alt="change in gitrepo" src="https://user-images.githubusercontent.com/124788172/219371629-c6101082-ca1a-4e46-bc36-0b22ceded856.png">
+
+<img width="403" alt="commit changes" src="https://user-images.githubusercontent.com/124788172/219371646-1b6c5591-29cb-4403-a103-c3ec8cd9c6c5.png">
+
 3) Push the changes back to the repository on GitHub
+<img width="384" alt="push changes to github" src="https://user-images.githubusercontent.com/124788172/219371702-b4c2d505-fd2c-4049-a0e7-034e285b9e2b.png">
+
