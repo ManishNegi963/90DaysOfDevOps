@@ -26,6 +26,18 @@ Connecting local to remote repository can be done by using git add filename, git
 ## Tasks
 
  Create a repository named "Devops" on GitHub
+ 
+ <img width="619" alt="create repo" src="https://user-images.githubusercontent.com/124788172/219636094-6dcf9a7b-5c5d-4f88-b6f6-46e9757742bd.png">
+
 - Connect your local repository to the repository on GitHub.
+- <img width="445" alt="git cloning local" src="https://user-images.githubusercontent.com/124788172/219636194-64ceafe7-19ff-43cd-a93b-a20e3a63a24b.png">
+
 - Create a new file in Devops/Git/Day-02.txt & add some content to it
+
+<img width="973" alt="local file" src="https://user-images.githubusercontent.com/124788172/219636389-1d2981d8-498a-4e19-8a0e-a0117965df9b.png">
+
 - Push your local commits to the repository on GitHub
+<img width="466" alt="push changes to HUB" src="https://user-images.githubusercontent.com/124788172/219636449-34b0fffb-825a-4424-8f55-512e1f6f8c33.png">
+<img width="986" alt="changes  to GitHub" src="https://user-images.githubusercontent.com/124788172/219636474-093b5800-8a04-4a56-9567-7e7b12fca120.png">
+
+
