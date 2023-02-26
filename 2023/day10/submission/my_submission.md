@@ -72,5 +72,20 @@
 ## Task 2:
 
  - Demonstrate the concept of branches with 2 or more branches with screenshot.
+
+Command to know the current branch 
+<img width="344" alt="branches" src="https://user-images.githubusercontent.com/124788172/221430787-d5a31e6b-b911-46b1-8f69-878bb0b6014e.png">
+
+Dev branch
+
+<img width="445" alt="dev branch" src="https://user-images.githubusercontent.com/124788172/221430939-27488648-7ad1-4fff-86f5-fc960f2d9c60.png">
+
+Main Branch
+
+<img width="371" alt="main branch" src="https://user-images.githubusercontent.com/124788172/221430953-38fdbe33-319d-408d-847e-223366833864.png">
+
+
  - add some changes to `dev` branch and merge that branch in `master`
+
+
  - as a practice try git rebase too, see what difference you get.
