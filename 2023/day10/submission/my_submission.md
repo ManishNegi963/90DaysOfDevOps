@@ -94,18 +94,23 @@ Main Branch
  - as a practice try git rebase too, see what difference you get.
 
 Log of Main branch
+
 <img width="550" alt="main log" src="https://user-images.githubusercontent.com/124788172/221432634-3d7d24f7-6fb2-40a4-bf3f-e6bb515670e8.png">
 
 Checkout feature00 branch from log 976e7f5 of main branch and created file feature01.txt and commit.
+
 <img width="491" alt="feature00 and file feature01" src="https://user-images.githubusercontent.com/124788172/221432727-1675901f-ce0c-4f4c-bed3-d4569fdcc82f.png">
 
 Log of feature00 branch
+
 <img width="415" alt="feature log" src="https://user-images.githubusercontent.com/124788172/221432751-7a14d331-2607-461f-8767-75bcec7a060a.png">
 
 Rebase main branch in feature branch and see the log, feature01.txt has been added to main branch
+
 <img width="547" alt="rebase main in feature branch" src="https://user-images.githubusercontent.com/124788172/221432772-a75e2799-74d3-4868-89fc-df6dfb50cdff.png">
 
-Rebase feature00 in main branch by switching to main branch and see logs that commits of feature00 branch has been added to main brancg
+Rebase feature00 in main branch by switching to main branch and see logs that commits of feature00 branch has been added to main branch
+
 
 <img width="524" alt="rebase feature00 in main" src="https://user-images.githubusercontent.com/124788172/221432854-0eb9f8dc-ca93-4dde-ad01-1102b930cb96.png">
 
