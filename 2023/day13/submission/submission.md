@@ -26,6 +26,9 @@ There are two type of Data Structure in python:
 
 -Non primitve data structure: Non-primitive data structure is a type of data structure that can store the data of more than one type.
 
+<img width="328" alt="data types" src="https://user-images.githubusercontent.com/124788172/222152126-120e45cf-3faf-4059-bba5-0a9b6fa7e5d6.png">
+
+
 Primitve data structure consist of the following data types:
 
  * Integer : whole number[int] Integers represent numeric data – they represent whole numbers from negative infinity to infinity. 
