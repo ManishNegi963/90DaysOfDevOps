@@ -16,7 +16,7 @@ You can install Python in your System whether it is window, MacOS, ubuntu, cento
 Task1:
 1. Install Python in your respective OS, and check the version.
 
-<img width="401" alt="python version" src="https://user-images.githubusercontent.com/124788172/222151009-fe4d3ca8-e629-42a1-9d0d-dacdc74c6836.png">
+<img width="296" alt="python vers" src="https://user-images.githubusercontent.com/124788172/222151708-085cdd6f-7a7c-4e60-b69e-88a828e83daa.png">
 
 2. Read about different Data Types in Python.
 
