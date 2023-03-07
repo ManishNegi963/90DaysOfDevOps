@@ -71,7 +71,7 @@ Write a program to add `Digital Ocean` to the list of cloud_providers and sort t
 
 [Hint: Use keys to built in functions for Lists]
 # solution
-
+```
  cloud_providers = ["AWS","GCP","Azure"]
  print(type(cloud_providers))
 
@@ -80,4 +80,5 @@ Write a program to add `Digital Ocean` to the list of cloud_providers and sort t
 
  cloud_providers.sort()
  print(cloud_providers)
+ ```
 
