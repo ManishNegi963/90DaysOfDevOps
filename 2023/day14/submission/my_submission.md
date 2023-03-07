@@ -25,7 +25,16 @@ Python dictionary is like hash tables in any other language with the time comple
 ## Tasks
 1. Give the Difference between List, Tuple and set. Do Handson and put screenshots as per your understanding.
  
- Refer
+ Refer above
+
+<img width="442" alt="List hands on" src="https://user-images.githubusercontent.com/124788172/223543764-f2ee21c2-5114-4172-a33d-a3d0efc56957.png">
+
+<img width="490" alt="tuple hands-on" src="https://user-images.githubusercontent.com/124788172/223543806-11e640ea-a02b-4ea8-b02e-11e3c00ca6c9.png">
+
+
+<img width="793" alt="set hands-on" src="https://user-images.githubusercontent.com/124788172/223543863-628d6f88-a4d9-4750-b2b2-7aec8bf4b471.png">
+
+ 
 
 2. Create below Dictionary and use Dictionary methods to print your favourite tool just by using the keys of the Dictionary.
 ```
