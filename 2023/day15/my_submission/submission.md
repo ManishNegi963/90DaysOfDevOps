@@ -16,8 +16,10 @@ DevOps_tools = {
 json_file = json.dumps(DevOps_tools, indent=4) #using json.dumps() to converst python to json #indent used to give space
 print(json_file)
 
-#solution
+```
 
+#solution
+```
 import json
 
 DevOps_tools = {
@@ -40,7 +42,9 @@ output
 aws : ec2
 azure : VM
 gcp : compute engine
+```
 
+```
 #solution
 
 import json
