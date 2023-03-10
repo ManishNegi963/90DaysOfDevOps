@@ -40,6 +40,9 @@ sudo docker run -d -p 8001:8001 865efc65ac7c
 - Verify that the application is working as expected by accessing it in a web browser
 
 
+<img width="814" alt="app ss" src="https://user-images.githubusercontent.com/124788172/224196391-6df19541-7f91-4533-8827-eea9133075e4.png">
+
+
 
 - Push the image to a public or private repository (e.g. Docker Hub )
 
