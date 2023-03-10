@@ -49,7 +49,7 @@ sudo docker run -d -p 8001:8001 865efc65ac7c
 
 ```
 
-For Refference Project visit [here](https://youtu.be/Tevxhn6Odc8)
+For Reference Project visit [here](https://youtu.be/Tevxhn6Odc8)
 
 If you want to dive further, Watch [bootcamp](https://youtube.com/playlist?list=PLlfy9GnSVerRqYJgVYO0UiExj5byjrW8u) 
 
