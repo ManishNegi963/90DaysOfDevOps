@@ -33,14 +33,38 @@ Learn how to use the docker-compose.yml file, to set up the environment, configu
 
 [Sample docker-compose.yaml file](https://github.com/LondheShubham153/90DaysOfDevOps/blob/master/2023/day18/docker-compose.yaml)
 
+<img width="851" alt="docker-compose install" src="https://user-images.githubusercontent.com/124788172/224453996-0c8b5ff1-bd70-4f53-88cf-3d99b71c0cd7.png">
+
+
+<img width="524" alt="docker compose create n see" src="https://user-images.githubusercontent.com/124788172/224454078-443607c1-51f1-4997-b734-b70e03e297b4.png">
+
+<img width="830" alt="docker compose run and ps" src="https://user-images.githubusercontent.com/124788172/224454090-84422c14-2d34-4ab3-a794-45b37f23f128.png">
+
 
 ## Task-2
 - Pull a pre-existing Docker image from a public repository (e.g. Docker Hub) and run it on your local machine. Run the container as a non-root user (Hint- Use `usermod ` command to give user permission to docker). Make sure you reboot instance after giving permission to user.
 - Inspect the container's running processes and exposed ports using the docker inspect command.
+
+<img width="848" alt="docker ps and inspect" src="https://user-images.githubusercontent.com/124788172/224454155-c16d9194-40e1-42e7-b48f-e6f366215af5.png">
+
+<img width="743" alt="docker network sett" src="https://user-images.githubusercontent.com/124788172/224454172-d8b6daeb-e9ff-4c66-b237-81093e8f9350.png">
+
+
 - Use the docker logs command to view the container's log output.
+
+<img width="847" alt="docker logs" src="https://user-images.githubusercontent.com/124788172/224454188-5bb0ce33-66bc-4c89-aac1-ddcd91157ba7.png">
+
+
 - Use the docker stop and docker start commands to stop and start the container.
+
+<img width="844" alt="docker stop n ps" src="https://user-images.githubusercontent.com/124788172/224454211-694f36e1-99a1-4195-b2d9-42cde2373949.png">
+
+<img width="852" alt="docker start n ps" src="https://user-images.githubusercontent.com/124788172/224454217-727adecf-1d3f-49bc-8156-8b26e5fe220f.png">
+
+
 - Use the docker rm command to remove the container when you're done.
 
+<img width="851" alt="docker stop n rm n ps" src="https://user-images.githubusercontent.com/124788172/224454226-90575f8a-36a0-415a-ae22-ee6f21bb60f8.png">
 
 
 For reference you can watch this [video](https://youtu.be/Tevxhn6Odc8)
