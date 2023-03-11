@@ -1,5 +1,4 @@
 #Basic linux commands
-
 [ec2-user@ip-172-31-36-47 ~]$ ls
 [ec2-user@ip-172-31-36-47 ~]$ mkdir day02
 [ec2-user@ip-172-31-36-47 ~]$ mkdir .hiddenday02
