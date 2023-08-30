@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: django
+  namespace: react-django-ns
+spec:
+  containers:
+  - name: django-ctr
+    image: django
+    ports:
+    - containerPort: 80
