@@ -54,7 +54,7 @@ You can read more about pod from [here](https://kubernetes.io/docs/concepts/work
 
 ## Installation of minikube on local.
 
-![Alt text](image.png)
+
 
 
 
